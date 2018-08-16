@@ -1,0 +1,22 @@
+20
+0
+C 0,0646
+B 0,0260
+D 0,0028
+Erlang 0,0024
+Go 0,0241
+Haskell 0,0554
+Java 0,0390
+JavaScript 0,0170
+Julia 0,0175
+Lisp 0,0070
+OCaml 0,0274
+PHP 0,0969
+Python 0,0947
+R 0,1184
+Ruby 0,0410
+Rust 0,0332
+SQL 0,1249
+Scala 0,0991
+Swift 0,0740
+Vala 0,0345

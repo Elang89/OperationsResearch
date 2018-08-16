@@ -1,0 +1,12 @@
+@define-color bg_color1 rgb (255, 255, 255);
+@define-color bg_color2 rgb (83, 83, 83);
+
+GtkWindow {
+
+  background: -gtk-gradient (linear,
+                           left top,
+                           bottom right,
+                           from(@bg_color1),
+                           to(@bg_color2));
+	
+}

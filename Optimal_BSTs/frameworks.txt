@@ -1,0 +1,17 @@
+15
+1
+AndroidStudio 0,3500
+AngularUI 0,3000
+AppCelerator 0,0900
+Apportable 0,0700
+Ionic 0,0100
+Kendo 0,0100
+Kivy 0,0100
+Onsen 0,0100
+PhoneGapp 0,0100
+Sencha 0,0100
+VisualStudio 0,0100
+XDK 0,0100
+Xamarin 0,0100
+Xcode 0,0600
+jQueryMobile 0,0500
